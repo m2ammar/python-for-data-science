@@ -1,0 +1,3 @@
+Hey, Ammar!
+Nice to meet you!
+It's your first ever file read and write learning process!
