@@ -14,8 +14,8 @@ production work.
 | Folder | Contents | Status |
 |---|---|---|
 | `Basic/` | Lectures 1-7 — variables, control flow, functions, file I/O, with practice files per lecture | ✅ Complete |
-| `Practice_Questions/` | 11 standalone practice problems | ✅ Complete |
-| `Python-OOP/` | Lectures 8-9 on OOP, plus applied projects: Bank, Box_Area, School_System, Student_Grade, Vehicle_System | 🟡 Ongoing |
+| `Practice_Questions/` | 11 standalone practice problems | 🟡 Ongoing |
+| `Python-OOP/` | Lectures 8-9 on OOP, plus applied projects: Bank, Box_Area, School_System, Student_Grade, Vehicle_System | ✅ Complete |
 | `notes/` | Reference notes — Python fundamentals, OOP concepts, zip/slicing | ✅ Complete |
 
 ## What I learned
